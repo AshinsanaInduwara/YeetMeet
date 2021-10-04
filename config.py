@@ -11,7 +11,7 @@ class Config(object):
 # If you're not familiar with how to set Environment Variables you can do like this instead
 # of  setting Environment Variables
 
-# BOT_TOKEN = os.environ.get('BOT_TOKEN', 'BOT_TOKEN_HERE')
+# BOT_TOKEN = os.environ.get('BOT_TOKEN', '2010203842:AAHO4J6Dq3FLStZbhk5ezTSpX5XiZODW9Xk')
 # GUSERNAME = os.environ.get('GUSER_NAME', 'Google Email')
 # GPASSWORD = os.environ.get('GPASSWORD', 'Google Email Password')
 
